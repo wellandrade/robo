@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\bin\Debug\Robo.exe.config
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\bin\Debug\Robo.exe
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\bin\Debug\Robo.pdb
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\bin\Debug\WebDriver.dll
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\bin\Debug\WebDriver.xml
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\obj\Debug\Robo.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\obj\Debug\Robo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\obj\Debug\Robo.csproj.CopyComplete
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\obj\Debug\Robo.exe
+C:\Users\User\Desktop\Well\Estudo\RoboFake__\Robo\obj\Debug\Robo.pdb
